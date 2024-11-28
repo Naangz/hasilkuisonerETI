@@ -1,0 +1,18 @@
+cff-version: 1.0.0
+message: "Cite? use below."
+authors:
+  - family-names: Mukti
+    given-names: Muhammad Maulana
+  - family-names: Shakti
+    given-names: Nathan Pradana
+  - family-names: Farizky
+    given-names: Dovy Adeeb
+  - family-names: Rakhmawati
+    given-names: Nur Aini
+    
+title: "Analisis Persepsi Pengguna Terhadap Keamanan Data dan Privasi dalam Interaksi dengan Chatbot"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14236095
+date-released: 2024-11-28
